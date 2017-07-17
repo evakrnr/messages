@@ -1,0 +1,14 @@
+{
+
+    "signup": {
+        "en": {
+            "template_id": "988d06df-0f6b-418e-94e3-e25c93521524"
+          , "subject": "Welcome"
+        }
+      , "fr": {
+            "template_id": "988d06df-0f6b-418e-94e3-e25c93521524"
+          , "subject": "Bienvenue"
+        }
+    }
+  
+}

@@ -1,0 +1,6 @@
+{
+    "signup": {
+        "en": { "body": "Hello {{firstname}}" }
+      , "fr": { "body": "Bonjour {{firstname}}" }
+    }
+}
