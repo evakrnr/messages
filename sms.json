@@ -3,4 +3,8 @@
         "en": { "body": "Hello {{firstname}}" }
       , "fr": { "body": "Bonjour {{firstname}}" }
     }
+  , "share-link": {
+        "en": { "body": "Share a memori of {{fullname}} at https://www.inmemori.com/{{slug}}" }
+      , "fr": { "body": "Partagez un souvenir de {{fullname}} sur https://www.inmemori.com/{{slug}}" }
+    }
 }
