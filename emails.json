@@ -10,27 +10,5 @@
           , "subject": "Bienvenue sur inmemori"
         }
     }
-
-    "partnersignup": {
-        "en": {
-            "template_id": "abe21bc4-fa33-4e81-a64d-59b327d191a5"
-          , "subject": "Complete {{firstname}} {{lastname}}'s page"
-        }
-      , "fr": {
-            "template_id": "4795677f-5f8d-4464-9fa4-a11040bb23d2"
-          , "subject": "Complétez la page de {{firstname}} {{lastname}}"
-        }
-    }
-
-    "ambassador": {
-        "en": {
-            "template_id": "02930518-fec7-4d27-92ce-89ed1da539ff"
-          , "subject": "Inmemori thanks you"
-        }
-      , "fr": {
-            "template_id": "3a7634fe-0b8e-4500-bfa8-5a557fca14bf"
-          , "subject": "Inmemori vous remercie"
-        }
-    }
   
 }
