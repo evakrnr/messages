@@ -3,7 +3,18 @@
     "signup": {
         "en": {
             "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
-          , "subject": "Welcome to inmemori"
+          , "subject": "Welcome {{sharelink}} to inmemori"
+        }
+      , "fr": {
+            "template_id": "988d06df-0f6b-418e-94e3-e25c93521524"
+          , "subject": "Bienvenue sur inmemori"
+        }
+    },
+    
+    "share": {
+        "en": {
+            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
+          , "subject": "Share"
         }
       , "fr": {
             "template_id": "988d06df-0f6b-418e-94e3-e25c93521524"
