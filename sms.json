@@ -7,4 +7,8 @@
         "en": { "body": "Share a memory of {{fullname}} at https://www.inmemori.com/{{slug}}" }
       , "fr": { "body": "Partagez un souvenir de {{fullname}} sur https://www.inmemori.com/{{slug}}" }
     }
+  , "share-admin": {
+        "en": { "body": "Administrate the page of {{fullname}} at https://www.inmemori.com/{{slug}}/{{token}}" }
+      , "fr": { "body": "Administrez la page de {{fullname}} sur https://www.inmemori.com/{{slug}}/{{token}}" }
+    }
 }
