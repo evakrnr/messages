@@ -2,12 +2,12 @@
 
     "signup": {
         "en": {
-            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
-          , "subject": "Welcome {{sharelink}} to inmemori"
+            "template_id": "c8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
+          , "subject": "La page en hommage à [First Name][Last Name] a été créée."
         }
       , "fr": {
-            "template_id": "988d06df-0f6b-418e-94e3-e25c93521524"
-          , "subject": "Bienvenue sur inmemori"
+            "template_id": "c8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
+          , "subject": "La page en hommage à [First Name][Last Name] a été créée."
         }
     },
     
