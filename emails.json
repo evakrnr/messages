@@ -6,7 +6,7 @@
           , "subject": "La page en hommage à {{fullname}} a été créée."
         }
       , "fr": {
-            "template_id": "cc8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
+            "template_id": "c8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
           , "subject": "La page en hommage à {{fullname}} a été créée."
         }
     },
@@ -22,7 +22,7 @@
         }
     },
     
-    "daily-notification": {
+    "daily-notification-admin": {
         "en": {
             "template_id": "a7fb0efd-000c-47b2-a4c4-b7d84e832f4a"
           , "subject": "Share"
@@ -108,7 +108,71 @@
             "template_id": "2b3c7240-1969-41c3-8bfe-c9b53625db6b"
           , "subject": "Page en hommage à {{fullname}}."
         }
+    },
+
+    "donation-sender": {
+        "en": {
+            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
+          , "subject": "lorem ipsum"
+        }
+      , "fr": {
+            "template_id": "a327efd1-c5b9-4ab8-87a3-1741ad93cf7c"
+          , "subject": "Confirmation de votre don en hommage à {{fullname}}."
+        }
+    },
+    
+    "donation-notification": {
+        "en": {
+            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
+          , "subject": "lorem ipsum"
+        }
+      , "fr": {
+            "template_id": "0dc3c65b-194c-4ded-9a9c-fbebd57c78e7"
+          , "subject": "Nouveau don sur la page en hommage à {{fullname}}."
+        }
     }
 
-    
+    "photo-notification": {
+        "en": {
+            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
+          , "subject": "lorem ipsum"
+        }
+      , "fr": {
+            "template_id": "73e2bd29-40f5-450e-8281-55ee5a3da0c2"
+          , "subject": "[THOUGHT_NAME] a/ont partagé une photo sur la page en hommage à {{fullname}}."
+        }
+    },
+
+    "condolences-notification": {
+        "en": {
+            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
+          , "subject": "lorem ipsum"
+        }
+      , "fr": {
+            "template_id": "aa04454b-7c01-433f-beb4-e1257a337deb"
+          , "subject": "[THOUGHT_NAME] a/ont partagé un message sur la page en hommage à {{fullname}}."
+        }
+    },
+
+    "memory-notification": {
+        "en": {
+            "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
+          , "subject": "lorem ipsum"
+        }
+      , "fr": {
+            "template_id": "22348cb6-e0f5-4f13-8877-8a9a1aacd651"
+          , "subject": "[THOUGHT_NAME] a/ont partagé un souvenir sur la page en hommage à {{fullname}}."
+        }
+    },
+
+    "daily-notification-relatives": {
+        "en": {
+            "template_id": "a7fb0efd-000c-47b2-a4c4-b7d84e832f4a"
+          , "subject": "Share"
+        }
+      , "fr": {
+            "template_id": "41bc5586-9b71-40b8-bfa0-ebbe4a4f0def"
+          , "subject": "De nouveaux hommages sur la page de {{fullname}}."
+        }
+    }
 }
