@@ -3,11 +3,11 @@
     "signup": {
         "en": {
             "template_id": "c8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
-          , "subject": "La page en hommage à {fullname} a été créée."
+          , "subject": "La page en hommage à {{fullname}} a été créée."
         }
       , "fr": {
             "template_id": "cc8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
-          , "subject": "La page en hommage à {fullname} a été créée."
+          , "subject": "La page en hommage à {{fullname}} a été créée."
         }
     },
     
@@ -18,7 +18,7 @@
         }
       , "fr": {
             "template_id": "e86a48aa-d3c9-4867-9746-edc0cad699f2"
-          , "subject": "Partagez la page en hommage à {fullname} avec vos proches."
+          , "subject": "Partagez la page en hommage à {{fullname}} avec vos proches."
         }
     },
     
@@ -29,7 +29,7 @@
         }
       , "fr": {
             "template_id": "988d06df-0f6b-418e-94e3-e25c93521524"
-          , "subject": "De nouveaux hommages sur la page de {fullname}."
+          , "subject": "De nouveaux hommages sur la page de {{fullname}}."
         }
     },
     
@@ -40,7 +40,7 @@
         }
       , "fr": {
             "template_id": "a7702305-64ac-4059-9699-d24c037c2202"
-          , "subject": "Confirmation de la suppression de la page en hommage à {fullname}."
+          , "subject": "Confirmation de la suppression de la page en hommage à {{fullname}}."
         }
     },
     
@@ -51,7 +51,7 @@
         }
       , "fr": {
             "template_id": "35b2448f-7539-4e3f-bb6c-dbf6d9b816dc"
-          , "subject": "Annonce du décès de {fullname}."
+          , "subject": "Annonce du décès de {{fullname}}."
         }
     },
   
@@ -62,7 +62,7 @@
         }
       , "fr": {
             "template_id": "7a5b0b37-63ea-4cad-a180-ba092f7b96f0"
-          , "subject": "Vous êtes administrateur de la page en hommage à {fullname}."
+          , "subject": "Vous êtes administrateur de la page en hommage à {{fullname}}."
         }
     },
 
@@ -73,7 +73,7 @@
         }
       , "fr": {
             "template_id": "eb941434-d243-4ea2-b5bd-9911eb307812"
-          , "subject": "N'oubliez pas de clôturer la collecte de dons en hommage à {fullname}."
+          , "subject": "N'oubliez pas de clôturer la collecte de dons en hommage à {{fullname}}."
         }
     },
 
@@ -84,7 +84,7 @@
         }
       , "fr": {
             "template_id": "eea73ac1-4574-4444-8390-36b95161ada3"
-          , "subject": "Confirmation de la clôture de la collecte de dons en hommage à {fullname}."
+          , "subject": "Confirmation de la clôture de la collecte de dons en hommage à {{fullname}}."
         }
     },
 
@@ -95,7 +95,7 @@
         }
       , "fr": {
             "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb"
-          , "subject": "Votre hommage est bien publié sur la page de {fullname}."
+          , "subject": "Votre hommage est bien publié sur la page de {{fullname}}."
         }
     },
 
@@ -106,7 +106,7 @@
         }
       , "fr": {
             "template_id": "2b3c7240-1969-41c3-8bfe-c9b53625db6b"
-          , "subject": "Page en hommage à {fullname}."
+          , "subject": "Page en hommage à {{fullname}}."
         }
     }
 
