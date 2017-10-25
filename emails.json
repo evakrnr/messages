@@ -44,7 +44,7 @@
         }
     },
     
-    "share-page": {
+    "share-link": {
         "en": {
             "template_id": "960d05d2-a3d9-4bf9-b6ff-3ab2b0fd7b37"
           , "subject": "lorem ipsum"
