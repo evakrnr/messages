@@ -1,14 +1,14 @@
 {
     "signup": {
-        "en": { "body": "Hello {{firstname}}" }
-      , "fr": { "body": "Bonjour {{firstname}}" }
+        "en": { "body": "Hello, the page created in memory of {{fullname}} is now complete. Forward the following link by email or text message in order to share this page to allow closed ones to access funeral information and participate: {{uri.page}}." }
+      , "fr": { "body": "Bonjour, la page en hommage à {{fullname}} est bien finalisée. Partagez la avec l'ensemble des personnes concernées en transférant ce lien par email ou par SMS : {{uri.page}}" }
     }
   , "share-link": {
-        "en": { "body": "Share a memori of {{fullname}} at https://www.inmemori.com/{{slug}}" }
-      , "fr": { "body": "Partagez un souvenir de {{fullname}} sur https://www.inmemori.com/{{slug}}" }
+        "en": { "body": "Share a memory of {{fullname}} at {{uri.page}}" }
+      , "fr": { "body": "Partagez un souvenir de {{fullname}} sur {{uri.page}}" }
     }
   , "share-admin": {
-        "en": { "body": "Administrate {{fullname}} page at https://www.inmemori.com/{{slug}}/{{token}}" }
-      , "fr": { "body": "Administrez la page de {{fullname}} sur https://www.inmemori.com/{{slug}}/{{token}}" }
+        "en": { "body": "Administrate the page of {{fullname}} at {{uri.admin}}" }
+      , "fr": { "body": "Administrez la page de {{fullname}} sur {{uri.admin}}" }
     }
 }
