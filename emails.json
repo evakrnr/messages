@@ -24,6 +24,16 @@
         "en": { "template_id": "" }
       , "fr": { "template_id": "7a5b0b37-63ea-4cad-a180-ba092f7b96f0" }
     },
+    
+    "send-memory": {
+        "en": { "template_id": "" }
+      , "fr": { "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb" }
+    },
+    
+    "receive-memory": {
+        "en": { "template_id": "" }
+      , "fr": { "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb" }
+    },
 
     "donation-reminder": {
         "en": { "template_id": "" }
@@ -33,11 +43,6 @@
     "donation-closed": {
         "en": { "template_id": "" }
       , "fr": { "template_id": "eea73ac1-4574-4444-8390-36b95161ada3" }
-    },
-
-    "message-sender": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb" }
     },
 
     "ambassador": {
