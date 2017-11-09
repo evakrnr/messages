@@ -10,7 +10,7 @@
       , "fr": { "template_id": "e86a48aa-d3c9-4867-9746-edc0cad699f2" }
     },
     
-    "remove-page": {
+    "delete-page": {
         "en": { "template_id": "" }
       , "fr": { "template_id": "a7702305-64ac-4059-9699-d24c037c2202" }
     },
@@ -31,8 +31,23 @@
     },
     
     "receive-memory": {
+        "en": { "admin": true, "template_id": "" }
+      , "fr": { "admin": true, "template_id": "22348cb6-e0f5-4f13-8877-8a9a1aacd651" }
+    },
+
+    "send-donation": {
         "en": { "template_id": "" }
-      , "fr": { "admin": true, "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb" }
+      , "fr": { "template_id": "a327efd1-c5b9-4ab8-87a3-1741ad93cf7c" }
+    },
+
+    "receive-donation": {
+        "en": { "admin": true, "template_id": "" }
+      , "fr": { "admin": true, "template_id": "0dc3c65b-194c-4ded-9a9c-fbebd57c78e7" }
+    },
+
+    "close-donation": {
+        "en": { "admin": true, "template_id": "" }
+      , "fr": { "admin": true, "template_id": "eea73ac1-4574-4444-8390-36b95161ada3" }
     },
 
     "donation-reminder": {
@@ -40,39 +55,9 @@
       , "fr": { "template_id": "eb941434-d243-4ea2-b5bd-9911eb307812" }
     },
 
-    "donation-closed": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "eea73ac1-4574-4444-8390-36b95161ada3" }
-    },
-
     "ambassador": {
         "en": { "template_id": "" }
       , "fr": { "template_id": "2b3c7240-1969-41c3-8bfe-c9b53625db6b" }
-    },
-
-    "donation-sender": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "a327efd1-c5b9-4ab8-87a3-1741ad93cf7c" }
-    },
-    
-    "donation-notification": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "0dc3c65b-194c-4ded-9a9c-fbebd57c78e7" }
-    },
-
-    "photo-notification": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "73e2bd29-40f5-450e-8281-55ee5a3da0c2" }
-    },
-
-    "condolences-notification": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "aa04454b-7c01-433f-beb4-e1257a337deb" }
-    },
-
-    "memory-notification": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "22348cb6-e0f5-4f13-8877-8a9a1aacd651" }
     },
 
     "daily-notification-relatives": {
