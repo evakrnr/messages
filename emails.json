@@ -27,7 +27,7 @@
     
     "send-memory": {
         "en": { "template_id": "" }
-      , "fr": { "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb" }
+      , "fr": { "cci": "louis.grellet@inmemori.com", "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb" }
     },
     
     "receive-memory": {
