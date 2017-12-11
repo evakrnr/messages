@@ -4,11 +4,11 @@
       , "fr": { "body": "Bonjour, la page InMemori en hommage à {{fullname}} est bien finalisée. Partagez-la avec l'ensemble des personnes concernées en transférant ce lien par email ou par SMS : {{uri.page}}" }
     }
   , "share-link": {
-        "en": { "body": "Share a memory of {{fullname}} at {{uri.page}}" }
-      , "fr": { "body": "Partagez un souvenir de {{fullname}} sur {{uri.page}}" }
+        "en": { "body": "Share a memory of {{fullname}} at {{uri.page}} " }
+      , "fr": { "body": "Partagez un souvenir de {{fullname}} sur {{uri.page}} " }
     }
   , "share-admin": {
-        "en": { "body": "Administrate the page of {{fullname}} at {{uri.admin}}" }
-      , "fr": { "body": "Administrez la page de {{fullname}} sur {{uri.admin}}" }
+        "en": { "body": "Administrate the page of {{fullname}} at {{uri.admin}} " }
+      , "fr": { "body": "Administrez la page de {{fullname}} sur {{uri.admin}} " }
     }
 }
