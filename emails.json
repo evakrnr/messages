@@ -32,7 +32,7 @@
     
     "receive-memory": {
         "en": { "admin": true, "template_id": "a95fd2bf-66b2-4ad0-b1b2-8c4b06431d43" }
-      , "fr": { "admin": true, "template_id": "22348cb6-e0f5-4f13-8877-8a9a1aacd651" }
+      , "fr": { "bcc": ["louis.grellet@inmemori.com"], "admin": true, "template_id": "22348cb6-e0f5-4f13-8877-8a9a1aacd651" }
     },
 
     "send-donation": {
