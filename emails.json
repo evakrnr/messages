@@ -47,7 +47,7 @@
 
     "close-donation": {
         "en": { "admin": true, "template_id": "777c3b17-60e3-484b-9c40-54eae988973b" }
-      , "fr": { "admin": true, "template_id": "eea73ac1-4574-4444-8390-36b95161ada3" }
+      , "fr": { "admin": true, "bcc": ["contact@inmemori.com"], "template_id": "eea73ac1-4574-4444-8390-36b95161ada3" }
     },
 
     "donation-reminder": {
