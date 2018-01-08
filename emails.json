@@ -54,6 +54,11 @@
         "en": { "template_id": "a273c1fb-51eb-48e7-8e9d-4f63cc2e07a9" }
       , "fr": { "template_id": "eb941434-d243-4ea2-b5bd-9911eb307812" }
     },
+    
+    "thank-message": {
+        "en": { "template_id": "" }
+      , "fr": { "template_id": "" }
+    },
 
     "ambassador": {
         "en": { "template_id": "94dc8eed-404b-49ef-926b-f28d438cbf5b" }
