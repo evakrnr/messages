@@ -56,8 +56,8 @@
     },
     
     "thank-message": {
-        "en": { "template_id": "" }
-      , "fr": { "template_id": "" }
+        "en": { "template_id": "f0df3a85-0f6f-4974-8290-4ab370017837" }
+      , "fr": { "template_id": "f0df3a85-0f6f-4974-8290-4ab370017837" }
     },
 
     "ambassador": {
