@@ -1,12 +1,12 @@
 [
-    { name: 'Fraicheur', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_16.png?frz-v=1789' }
-  , { name: 'Senteur', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_17.png?frz-v=1789' }
-  , { name: 'Foret', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_16.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_10.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789' }
-  , { name: 'Sky', price: 35.99, img: 'https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789' }
+    { "name": "Fraicheur", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_16.png?frz-v=1789" }
+  , { "name": "Senteur", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_17.png?frz-v=1789" }
+  , { "name": "Foret", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_16.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_10.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789" }
+  , { "name": "Sky", "price": 35.99, "img": "https://www.interflora.fr/images/LandingPage-Prestige_14.png?frz-v=1789" }
 ]
