@@ -73,5 +73,10 @@
     "daily-notification-admin": {
         "en": { "template_id": "ccc0e1cc-691b-4ac3-9d81-632677247c65" }
       , "fr": { "template_id": "a7fb0efd-000c-47b2-a4c4-b7d84e832f4a" }
+    },
+
+    "send-flower": {
+        "en": { "template_id": "" }
+      , "fr": { "template_id": "5f75ae1a-c940-40b8-ab56-55899d706b2e" }
     }
 }
