@@ -78,5 +78,10 @@
     "send-flower": {
         "en": { "template_id": "" }
       , "fr": { "template_id": "5f75ae1a-c940-40b8-ab56-55899d706b2e" }
+    },
+    
+     "interflora": {
+        "en": { "template_id": "" }
+      , "fr": { "template_id": "f9bca5fc-633c-4e86-854f-d3adbfe5fff4" }
     }
 }
